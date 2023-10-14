@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Capstone Project at MUN
+- 🔭 I’m currently working on my Capstone Project at MUN
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on Machnie Learning projects
 - 💬 Ask me about software development challenges 
